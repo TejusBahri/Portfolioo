@@ -1,0 +1,28 @@
+.contact {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f5f5f5;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.contact p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.email-link,
+.gmail-link {
+  color: #61dafb;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
+
+.email-link:hover,
+.gmail-link:hover {
+  text-decoration: underline;
+}
